@@ -1,0 +1,14 @@
+{
+"ST001": {
+"name": "abc",
+"city": "bhopal",
+"age": 20,
+"problem_solved":22
+},
+"ST002": {
+"name": "xyz",
+"city": "pune",
+"age": 22,
+"problem_solved":10
+}
+}
